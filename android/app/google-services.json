@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359640173728",
+    "project_id": "todosapp-ea260",
+    "storage_bucket": "todosapp-ea260.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359640173728:android:9ee70a4b7541eb45f18dc5",
+        "android_client_info": {
+          "package_name": "com.todosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArStXXtgZNIQlvks_F7l-4bzeyO0pzk44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
